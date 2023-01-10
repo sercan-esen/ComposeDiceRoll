@@ -1,1 +1,1 @@
-[![Watch the video](./examplevideo.mp4)
+[![plot](./examplevideo.mp4)

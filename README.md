@@ -1,1 +1,0 @@
-[![plot](./examplevideo.mp4)
